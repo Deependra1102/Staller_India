@@ -108,3 +108,4 @@ class VaultFactory,Strategy contract
   Smart vaults that execute compounding strategies for passive growth
 
 ---
+---
